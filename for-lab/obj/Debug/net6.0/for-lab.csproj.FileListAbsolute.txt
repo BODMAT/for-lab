@@ -1,0 +1,14 @@
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\bin\Debug\net6.0\for-lab.exe
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\bin\Debug\net6.0\for-lab.deps.json
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\bin\Debug\net6.0\for-lab.runtimeconfig.json
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\bin\Debug\net6.0\for-lab.dll
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\bin\Debug\net6.0\for-lab.pdb
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\for-lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\for-lab.AssemblyInfoInputs.cache
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\for-lab.AssemblyInfo.cs
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\for-lab.csproj.CoreCompileInputs.cache
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\for-lab.dll
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\refint\for-lab.dll
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\for-lab.pdb
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\for-lab.genruntimeconfig.cache
+C:\Users\BOHDAN\Desktop\уник\МТЗКІТ\for-lab\for-lab\obj\Debug\net6.0\ref\for-lab.dll
